@@ -2,7 +2,7 @@
   "userPrincipalName": "anda_toshiki@rainscall.com",
   "icon": "/icons/128.png",
   "title": "GalGame下载站",
-  "baseDirectory": "/",
+  "baseDirectory": "/Public",
   "maxItems": 100,
   "googleFontSans": "Inter",
   "googleFontMono": "Fira Mono",
